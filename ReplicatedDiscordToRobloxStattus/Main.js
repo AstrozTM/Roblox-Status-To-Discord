@@ -37,7 +37,7 @@ function UpdateStattus() {
         if (Status !== Res.status){
         Status = Res.status
         UpdateToDiscord()
-        console.log(`Updated Discord Status to: ${Status}`.blue)
+        console.log(`Updated Discord Status to:`.blue,` ${Status}`.yellow)
         }
     })
 }
