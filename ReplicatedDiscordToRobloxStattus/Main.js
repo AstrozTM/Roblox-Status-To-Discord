@@ -12,9 +12,7 @@ function UpdateToDiscord() {
            body: JSON.stringify({
             custom_status: {
             expires_at: null,
-            text: Status + '᲼',
-            emoji_id: "682740907833163822",
-            emoji_name: "Blushy"
+            text: Status + '᲼'
             }
            })
 
