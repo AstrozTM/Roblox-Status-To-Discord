@@ -14,3 +14,5 @@ emoji_id: "393566065361158144",
 emoji_name: "Blush"
 ```
 put that in update to discord in body.
+## Requirements?
+You need node v14.0.0 always choose the current one.
