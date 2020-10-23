@@ -16,4 +16,4 @@ emoji_name: "Blush"
 put that in update to discord in body.
 ## Requirements?
 You need node v14.0.0 always choose the current one.
-<img scr="https://cdn.discordapp.com/attachments/747209198781333509/769078676570112000/unknown.png"><img>
+https://cdn.discordapp.com/attachments/747209198781333509/769078676570112000/unknown.png
