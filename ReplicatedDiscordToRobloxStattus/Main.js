@@ -6,7 +6,7 @@ let Status = ''
 console.log(`
 R O B L O X  S T A T U S  T O  D I S C O R D
          M A D E  B Y  A S T R O Z
-               Astroz#0001                                                          
+        https://github.com/AstrozTM                                                          
 \n\n `.rainbow)
 function UpdateToDiscord() {
     if(Status !== '') {
