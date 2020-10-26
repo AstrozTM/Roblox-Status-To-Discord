@@ -16,3 +16,5 @@ emoji_name: "Blush"
 put that in update to discord in body.
 ## Requirements?
 You need node v14.0.0 always choose the current one.
+## How do I add auth, and my user for roblox and discord?
+https://github.com/AstrozTM/Roblox-Status-To-Discord/blob/main/ReplicatedDiscordToRobloxStattus/JSON/Settings.json
